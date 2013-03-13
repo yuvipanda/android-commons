@@ -28,7 +28,7 @@ import com.nostra13.universalimageloader.core.assist.ImageLoadingListener;
 import com.nostra13.universalimageloader.core.assist.ImageScaleType;
 import com.nostra13.universalimageloader.core.display.FadeInBitmapDisplayer;
 import org.wikimedia.commons.R;
-import org.wikimedia.commons.ShareActivity;
+import org.wikimedia.commons.upload.ShareActivity;
 import org.wikimedia.commons.UploadService;
 
 import java.io.File;
